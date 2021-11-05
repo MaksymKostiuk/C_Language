@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636128484 source:d:\codeblocks\c\game2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
